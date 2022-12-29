@@ -16,6 +16,7 @@
 
 
 # PROFILE
+![Dencho's Code::Stats stats](https://codestats-readme.avior.me/api?username=Denchyaknow&show_icons=true&theme=nightowl)
 
 [![Dencho's code::stats stats](https://codestats-readme.vercel.app/api?username=Denchyaknow&show_icons=true&theme=radical)](https://github.com/Denchyaknow/codestats-readme)
 
